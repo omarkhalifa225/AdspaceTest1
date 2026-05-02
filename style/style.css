@@ -19,7 +19,7 @@ body{
     --primary-gray:rgb(66, 66, 66);
 }
 header{
-    background:url(../image/Screenshot\ 2026-03-13\ 002309.png) center/cover no-repeat fixed;
+    background:url(../image/Screenshot\ 2026-03-13\ 002309.png) center/cover no-repeat;
 height: 100vh;
 padding-top:100px;
 }
