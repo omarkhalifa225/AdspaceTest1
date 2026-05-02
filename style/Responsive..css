@@ -194,8 +194,8 @@ font-size: 4vw;
         display: none ;
     }
        .hero-text h2{
-        transform: translate(0%,-50%);
-        font-size:4vw ;
+        transform: translate(0%,-80%);
+        font-size:4.5vw;
     }
     .work-Img{
         width:1000px;
@@ -239,7 +239,7 @@ font-size: 4vw;
         transition: all 0.9s ease;
 }
 .Brands{
-    transform: translate(-4%,0%);
+    transform: translate(-9%,0%);
 }
 .Brands svg{
     width:30vw;
